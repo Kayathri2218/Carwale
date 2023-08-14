@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Carwale/static/css/main.58a0378c.css",
+    "main.js": "/Carwale/static/js/main.e886bd22.js",
+    "static/media/slick.svg": "/Carwale/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Carwale/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Carwale/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Carwale/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Carwale/index.html",
+    "main.58a0378c.css.map": "/Carwale/static/css/main.58a0378c.css.map",
+    "main.e886bd22.js.map": "/Carwale/static/js/main.e886bd22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0378c.css",
+    "static/js/main.e886bd22.js"
+  ]
+}
